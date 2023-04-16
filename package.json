@@ -1,6 +1,6 @@
 {
-  "name": "vscode-theme-changer",
-  "displayName": "Theme changer",
+  "name": "color-theme-changer",
+  "displayName": "Color theme changer ",
   "publisher": "djogy",
   "description": "Switcher of your favorite color theme and font size.",
   "version": "0.0.1",
