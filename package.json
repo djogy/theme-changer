@@ -82,5 +82,12 @@
     "mocha": "^10.2.0",
     "typescript": "^4.9.5",
     "@vscode/test-electron": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djogy/theme-changer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/djogy/theme-changer/issues"
   }
 }
