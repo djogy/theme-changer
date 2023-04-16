@@ -1,7 +1,8 @@
 {
   "name": "theme-changer",
   "displayName": "Theme changer",
-  "description": "",
+  "publisher": "djogy",
+  "description": "Switcher of color theme and font size.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
